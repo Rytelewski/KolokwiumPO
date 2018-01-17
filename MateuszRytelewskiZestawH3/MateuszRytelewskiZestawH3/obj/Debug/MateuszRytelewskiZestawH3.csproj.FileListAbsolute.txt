@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\MateuszRytelewskiZestawH3\MateuszRytelewskiZestawH3\bin\Debug\MateuszRytelewskiZestawH3.exe.config
+C:\Users\local\Desktop\MateuszRytelewskiZestawH3\MateuszRytelewskiZestawH3\obj\Debug\MateuszRytelewskiZestawH3.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\MateuszRytelewskiZestawH3\MateuszRytelewskiZestawH3\bin\Debug\MateuszRytelewskiZestawH3.exe
+C:\Users\local\Desktop\MateuszRytelewskiZestawH3\MateuszRytelewskiZestawH3\bin\Debug\MateuszRytelewskiZestawH3.pdb
+C:\Users\local\Desktop\MateuszRytelewskiZestawH3\MateuszRytelewskiZestawH3\obj\Debug\MateuszRytelewskiZestawH3.exe
+C:\Users\local\Desktop\MateuszRytelewskiZestawH3\MateuszRytelewskiZestawH3\obj\Debug\MateuszRytelewskiZestawH3.pdb
